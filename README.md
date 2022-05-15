@@ -4,7 +4,7 @@ We have to build a model that will take human image data and classify the images
 
 ## PHASE-1 (Data Preparation):
 
-For this Phase, we extracted6000+ images which comprised Indian and non-Indian images. For Indian images, we used 23+ keywords like “army, artists, astronauts, celebrities, chefs” and so on, And also for Non-Indian images, we followed a similar procedure. To extract these images we have used Selenium to automate and scrape from the browser. The script to perform this task is named `WebScrapping.py`.
+For this Phase, we extracted 6000+ images which comprised Indian and non-Indian images. For Indian images, we used 23+ keywords like “army, artists, astronauts, celebrities, chefs” and so on, And also for Non-Indian images, we followed a similar procedure. To extract these images we have used Selenium to automate and scrape from the browser. The script to perform this task is named `WebScrapping.py`.
 
 ## PHASE-2 (Data Cleaning):
 
